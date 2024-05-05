@@ -1,4 +1,4 @@
-import MainCharacter from '../Daemon';
+import MainCharacter from '../Daemon;';
 
 test('тест персонажа Daemon', () => {
     const player = new Daemon('aaa');
