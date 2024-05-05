@@ -1,4 +1,4 @@
-import MainCharacter from '../Magician';
+import MainCharacter from '../Magician;';
 
 test('тест персонажа Magician', () => {
     const player = new Magician('aaa');
